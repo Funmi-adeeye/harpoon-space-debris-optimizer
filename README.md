@@ -54,6 +54,6 @@ By modeling debris parameters as probabilistic distributions and applying **Mont
 ## 🚀 How to Run
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/<username>/harpoon-space-debris-optimizer.git
+   git clone https://github.com/Funmi-adeeye/harpoon-space-debris-optimizer.git
    cd harpoon-space-debris-optimizer
 
