@@ -1,0 +1,2 @@
+Optimal u: 1.000000
+Expected Loss: 2.901244
